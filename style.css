@@ -139,6 +139,7 @@ p{
     color: white !important;
     user-select: none;
     border: #f10c45 solid 2px !important;
+    transform: scale(1.06);
 }
 .main4{
     background-color: var(--primary-color);

@@ -3,12 +3,13 @@
     border: solid rgb(44, 44, 44) 2px !important;
 }
 .secard:hover{
-    margin-top: -15px;
+    /* margin-top: -15px; */
     transition: .5s;
     background-color: #727272;
     color: white !important;
     user-select: none;
     border: #f10c45 solid 2px !important;
+    transform: scale(1.08);
 }
 .img{
     /* border-top-right-radius: 23px !important;
