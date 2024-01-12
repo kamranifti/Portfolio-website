@@ -1,8 +1,9 @@
-.card{
+.card {
     /* border-radius: 24px !important; */
     border: solid rgb(44, 44, 44) 2px !important;
 }
-.secard:hover{
+
+.secard:hover {
     /* margin-top: -15px; */
     transition: .5s;
     background-color: #727272;
@@ -11,28 +12,31 @@
     border: #f10c45 solid 2px !important;
     transform: scale(1.08);
 }
-.img{
+
+.img {
     /* border-top-right-radius: 23px !important;
     border-top-left-radius: 23px !important; */
     border-bottom: 5px solid rgb(48, 48, 48);
     /* border-radius: 21px !important; */
 }
-.view{
+
+.view {
     background-color: #f10c45 !important;
     color: white !important;
 }
-p{
+
+p {
     font-weight: 600;
 }
-body{
+
+body {
     background-color: rgb(44, 45, 45);
 }
-.about{
+
+.about {
     color: white !important;
 }
-.pink{
-    color: #f10c45 !important;
-}
-.love{
+
+.pink {
     color: #f10c45 !important;
 }
