@@ -6,13 +6,13 @@ html {
 
 
 :root {
-    --primary-color: #2c262b;
+    --primary-color: #28223d;
     --secondary-color: white;
 
 }
 
 .light-theam {
-    --primary-color: rgb(221, 221, 221);
+    --primary-color: rgb(183, 201, 225);
     --secondary-color: #2c262b;
 }
 
@@ -39,7 +39,7 @@ body {
 }
 
 .main1 {
-    background-image: url('Green\ Modern\ How\ To\ Make\ Money\ Online\ YouTube\ Thumbnail.svg');
+    background-image: url('./images/Green\ Modern\ How\ To\ Make\ Money\ Online\ YouTube\ Thumbnail.svg');
     background-size: cover;
     background-position: center;
     background-color: var(--primary-color);
